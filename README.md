@@ -7,3 +7,6 @@ This respository contains several custom robot model I made in Coppeliasim. It i
 
 ### Hexapod Robot with Dynamixel AX12A base
 ![image](image/hexapod_ax12a_base.JPG)
+
+### Yaskawa GP7
+![image](image/yaskawa_gp7.JPG)
